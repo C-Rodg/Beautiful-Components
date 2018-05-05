@@ -1,0 +1,19 @@
+{
+	"name": "beautiful-components",
+	"version": "1.0.0",
+	"description": "A list of awesome styled components I use in many of my projects",
+	"main": "index.js",
+	"author": "C-Rodg <rodgersbc@gmail.com>",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/C-Rodg/Beautiful-Components.git"
+	},
+	"bugs": {
+		"url": "https://github.com/C-Rodg/Beautiful-Components/issues"
+	},
+	"homepage": "https://github.com/C-Rodg/Beautiful-Components#readme",
+	"dependencies": {
+		"styled-components": "^3.2.6"
+	}
+}
